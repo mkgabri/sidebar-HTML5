@@ -24,6 +24,11 @@
     border-bottom: 1px solid rgba(100,100,100, .3);
 }
 
+.sidebar-menu li:hover {
+    background: #000;
+    color: #fff;
+}
+
 .logo{
     border-radius: 50%;
     display: block;
